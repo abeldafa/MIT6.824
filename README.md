@@ -1,2 +1,3 @@
 # MIT6.824
-work with alwaysyu
+This repo is my personal implementation of MIT6.824. 
+I work with alwaysyu on lab4 and projects.
